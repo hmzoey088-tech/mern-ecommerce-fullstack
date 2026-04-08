@@ -1,0 +1,8 @@
+{
+  "name": "nexashop",
+  "private": true,
+  "workspaces": [
+    "client",
+    "server"
+  ]
+}
